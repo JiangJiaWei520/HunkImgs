@@ -1,5 +1,6 @@
 # HunkImgs
 更新github仓库
+
 1.首先切换到你的本地仓库中更新的项目目录
 
 可以在用Git Bash用cd命令切换，也可以直接右键项目点击git bash here
