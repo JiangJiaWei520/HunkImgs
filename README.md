@@ -9,7 +9,7 @@ git status //查看仓库状态
 
 git add . //用于更新所有代码
 
-git commit -m "备注" //提交的备注
+git commit -m "新增壁纸" //提交的备注
 
 git push origin master //将本地仓库的代码更新到github的仓库
 
